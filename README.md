@@ -68,7 +68,7 @@ All the visited URLs are printed without any indentation, all the URLs found on 
 
 ![image](https://user-images.githubusercontent.com/71857062/110219480-79918300-7e8d-11eb-9f12-8910c02e3d91.png)
 
-**URLS can be:**
+**URL can be:**
 
 'https://linkedin.com' or "https://linkedin.com"
 
