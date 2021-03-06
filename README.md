@@ -76,6 +76,8 @@ All the visited URLs are printed without any indentation, all the URLs found on 
 
 or any other absolute URL (https or http)
 
+As the visited URL will fetch all the URLs found on that page, one of the fetched URLs can also be given as input to the program.
+
 To stop the loop, I have implemented a stopping condition, i.e., when the program prompts you for the input and when you press enter, the iteration will terminate.
 
 You can provide any URL (http and https) as input enclosed in either single or double quotes.
