@@ -1,5 +1,3 @@
-# Rescale_Backend_Assignment
-
 I have developed the WebCrawler in Python. Below are the steps needed before executing or to execute the program.
 
 **Running the program on Linux terminal:**
